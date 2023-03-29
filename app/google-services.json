@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286817926235",
+    "project_id": "comutingexample",
+    "storage_bucket": "comutingexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286817926235:android:d102e79037e3adb897137e",
+        "android_client_info": {
+          "package_name": "com.example.comutingexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286817926235-i8offg3mn6tt5t4ecnjhutqegoo661ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbfni3uQ0G6ztcbgqfEodMMBMhmpebguI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286817926235-i8offg3mn6tt5t4ecnjhutqegoo661ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
